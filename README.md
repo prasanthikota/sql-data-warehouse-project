@@ -44,4 +44,4 @@ This Project is licensed under the [MIT License](LICENSE).
 
 ## About Me
 
-I am **Kota Prasaanthi**, a Computer Science Engineering graduate with a strong interest in Data Analytics, SQL, and Data Engineering. This project showcases my ability to build data warehouse solutions and generate business insights using industry-standard analytics practices.
+I am **Kota Prasanthi**, a Computer Science Engineering graduate with a strong interest in Data Analytics, SQL, and Data Engineering. This project showcases my ability to build data warehouse solutions and generate business insights using industry-standard analytics practices.

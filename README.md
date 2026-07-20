@@ -48,5 +48,9 @@ I am **Kota Prasanthi**, a Computer Science Engineering graduate with a strong i
 
 ## Acknowledgments
 
-This project is based on the SQL Data Warehouse project by Data With Baraa.
-It has been adapted for learning purposes with my own modifications.
+This project was completed by following the SQL Data Warehouse tutorial created by **Data With Baraa**.
+
+I implemented the project in my own SQL Server environment using SSMS and documented my work in this repository. This repository represents my learning implementation and includes my own documentation and project setup.
+
+Original project:
+https://github.com/DataWithBaraa/sql-data-warehouse-project

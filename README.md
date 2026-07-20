@@ -54,3 +54,5 @@ I implemented the project in my own SQL Server environment using SSMS and docume
 
 Original project:
 https://github.com/DataWithBaraa/sql-data-warehouse-project
+
+Special thanks to Data With Baraa for creating the original tutorial and project that inspired this learning implementation.
